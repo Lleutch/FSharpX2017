@@ -1,0 +1,1 @@
+Slides for F#unctional Londoners meetup on session#, a library for session types on .NET
